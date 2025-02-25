@@ -1,7 +1,7 @@
 # Oi, eu sou o **Jean**! 😜
 
 --🎓 Estou em formação como desenvolvedor, atualmente estudando Desenvolvimento de Sistemas no SENAI Joinville Sul.<br>
---🌱 Atualmente, estou aprendendo TypeScript.<br>
+--🌱 Atualmente, estou aprendendo Bootstrap.<br>
 
 
 
